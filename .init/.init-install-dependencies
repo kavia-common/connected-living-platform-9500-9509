@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/connected-living-platform-9500-9509/rasa_ai_nlu"
+}
